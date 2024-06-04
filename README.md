@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Hello, I am Mr. Shoyaib, A front-end  web developer. experience in creating responsive and user-friendly websites.  As a Front-End web developer I'll be pleased to help you with your HTML CSS JavaScript Bootstrap TailwindCSS and React-js projects. My goal is to satisfy all of my clients and offer them excellent responsive websites.</p>
+<p align="left">✨ Hello, I am A front-end web developer. experience in creating responsive and user-friendly websites.  As a Front-End web developer I'll be pleased to help you with your HTML CSS JavaScript Bootstrap TailwindCSS and React-js projects. My goal is to satisfy all of my clients and offer them excellent responsive websites.</p>
 
 ###
 
@@ -25,13 +25,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="40" alt="nestjs logo"  />
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
 </div>
