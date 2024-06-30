@@ -1,6 +1,5 @@
 ![Web Developer❤️ 😍](https://media.licdn.com/dms/image/D4D16AQFn-J4I_yk5Dg/profile-displaybackgroundimage-shrink_350_1400/0/1712232236704?e=1725494400&v=beta&t=hbtslzabeT6yuclDKbG78h_8SkIAqbVgQ7T6M7hzrjs)
-### Hi there 👋, 
-###I'M SHOYAIB
+### Hi there 👋, I'M SHOYAIB
 #### Web Developer❤️ 😍
 
 Hello, I am a Front-End Web Developer. Experience in creating responsive and user-friendly websites. As a Front-End web developer I'll provide HTML CSS JavaScript Bootstrap TailwindCSS and React-js projects. My goal is to satisfy all of my clients and offer them excellent responsive websites.
