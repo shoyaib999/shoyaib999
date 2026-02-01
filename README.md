@@ -2,12 +2,12 @@
 ### Hi there 👋, I'M SHOYAIB
 #### Web Developer❤️ 😍
 
-Hello, I am a Front-End Web Developer. Experience in creating responsive and user-friendly websites. As a Front-End web developer I'll provide HTML CSS JavaScript Bootstrap TailwindCSS and React-js projects. My goal is to satisfy all of my clients and offer them excellent responsive websites.
+Hello, I am a Full-Stack Web Developer. Experience in creating responsive and user-friendly websites. As a web developer I'll provide JavaScript, TailwindCSS, React-js, Next.js, Node.js, Express.js projects. My goal is to satisfy all of my clients and offer them excellent responsive websites.
 
-Skills:  HTML / CSS / SASS / JavaScript /  REACT-js / Tailwind CSS / Bootstrap 
+Skills:  HTML / CSS / SASS / JavaScript /  REACT-js / Tailwind CSS / Bootstrap / Next.js / Node.js / Express.js / Database
 
 - 🔭 I’m currently working on Private Company 
-- 🌱 I’m currently learning NEXTjs 
+- 🌱 I’m currently learning Database
 - 💬 Ask me about web development 
 - 📫 How to reach me: shoyaibsb999@gmail.com 
 
